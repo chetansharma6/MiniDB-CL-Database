@@ -68,7 +68,7 @@ The first version of MiniDB is intended to work like this:
 
 ## Current Status
 
-🚧 Early development
+ Early development
 
 The project is being built incrementally.
 
