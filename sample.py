@@ -12,12 +12,13 @@ def user_input():
             if select.lower() == 'no':
                 print("Exiting the program.")
                 return data
+                return False
             else:
                 continue
 
 def main():
     data = user_input()
-    print("Collected Data:", data)
+    print("Collected Data: ", data)
 
 if __name__ == "__main__":
     main()
